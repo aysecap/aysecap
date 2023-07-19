@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AYŞE ÇAP</h1>
-<h3 align="center">A passionate AI/ML developer from Turkey</h3>
+<h3 align="center">A passionate AI/Computer Vision Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Python, C#, Artificial Intelligence, Image processing, and machine learning.**
 
