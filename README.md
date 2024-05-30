@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AI/Computer Vision Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Python, C#, Artificial Intelligence, Image processing, and machine learning.**
+- **I have been developing desktop and back-end with C# and ASP.NET Core for about 2 years.**
 
 - 📫 How to reach me **aysecap.6160@gmail.com**
 
